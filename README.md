@@ -9,5 +9,5 @@ It's very simple, just pass the selectors to jQuery.
 Let's say your application has the use cases for:
 Email, Email Confirmation, Password and Password Confirmation:
 
-$('#email, #email-confirm, #password, #password-confirm").disableCCP();
+`$("#email, #email-confirm, #password, #password-confirm").disableCCP();`
 
